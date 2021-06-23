@@ -1,1 +1,1 @@
-# Gestion_g-om-triques
+# Gestion_geomtriques
